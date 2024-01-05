@@ -72,24 +72,6 @@ app.get('/', (request, response) => {
 
 
 
-// Documentation:
-// add .env file
-// MONGODB_URI = "mongodb+srv://<username>:<pass>@cluster0..."
-
-//add db and collection name and structure example
-
-//run gaborkolcza.ca on 3000 and get the data from 3001
-//use mongo connection string from environment variable
-
-
-///////////////////////////////////
-// TODO
-
-// remove commented stuff
-
-
-
-
 
 
 
